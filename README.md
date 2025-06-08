@@ -20,8 +20,7 @@
         <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
     </a>
     </br>
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
-        <p>Jramosagudelo4@gmail.com</p>
+        <a><img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />jramosagudelo4@gmail.com</a>
 </p>  
 
 <!-- RAINBOW LINE BOT -->
