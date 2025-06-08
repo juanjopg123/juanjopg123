@@ -11,20 +11,6 @@
 
 ## 📬 Contáctame
 
-<p align=center>
-    <a href="https://github.com/juanjopg123" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.svg" alt=github style="margin-bottom: 5px;" />
-    </a>
-    <a href="https://www.linkedin.com/in/juan-jos%C3%A9-ramos-agudelo-212b3b24a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BfFF80JgqQn6qBvtSu56HpA%3D%3D" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/linkedin.svg" alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <a href="jramosagudelo4@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/gmail.svg" alt=gmail style="margin-bottom: 5px;" />
-    </a>
-</p>  
-
-
-### Contáctame
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-jos%C3%A9-ramos-agudelo-212b3b24a)
 [![Correo](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jramosagudelo4@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/juanjoramos1)
