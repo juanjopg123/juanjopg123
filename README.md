@@ -20,9 +20,5 @@
   <a href="https://instagram.com/juanjoramos1"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
-## 🔎 Palabras clave
-
-Desarrollo Web • Backend • Node.js • Laravel • Angular • C++ • GitHub • Estudiante de Software • Proyectos de Programación • Programación Web
-
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
