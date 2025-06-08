@@ -12,5 +12,7 @@
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=android&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
 <a href= https://github.com/Aditya664?tab=repositories&q=&type=&language=csharp&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg'> </a>
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,angular,c,cs,cpp,git,github,gitlab,laravel)](https://skillicons.dev)
 <!-- RAINBOW LINE BOT -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
