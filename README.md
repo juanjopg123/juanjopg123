@@ -5,11 +5,11 @@
 
 - Actualmente soy estudiante de Desarrollo de Software en la Institucion Universitaria Pascual Bravo
 
-<h2> Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2>🔧 Habilidades <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cs,cpp,php,laravel,angular,react,vue,nestjs,nodejs,npm,php,postgres,mysql,pycharm,py,git,github,gitlab,)](https://skillicons.dev)
 
-## 📬 Contact me
+## 📬 Contáctame
 
 <p align=center>
     <a href="https://github.com/juanjopg123" target="_blank">
